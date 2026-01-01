@@ -1,7 +1,9 @@
-use walmart_db;
 
 -- walmart project queries - MYSQL
+
+-- Fetch all records
 select*from walmart;
+
 -- drop table walmart;
 
 -- count total records
