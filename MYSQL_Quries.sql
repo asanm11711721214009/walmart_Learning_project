@@ -1,4 +1,5 @@
 use walmart_db;
+
 -- walmart project queries - MYSQL
 select*from walmart;
 -- drop table walmart;
